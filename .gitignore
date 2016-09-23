@@ -55,7 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
-config.py
+#config.py
 .ipynb_checkpoints/
 #*.pkl
 #*.npy
